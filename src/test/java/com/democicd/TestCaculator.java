@@ -17,10 +17,4 @@ public class TestCaculator {
         Assert.assertEquals(caculator.sub(2,2),0);
 
     }
-    @Test
-    public void fail() {
-        Caculator caculator = new Caculator();
-        Assert.assertEquals(caculator.sub(2,2),1);
-
-    }
 }

@@ -9,6 +9,6 @@ public class Caculator implements Icaculator {
         return a-b;
     }
     public Integer fail(Integer a, Integer b) {
-        return a-b;
+        return a/b;
     }
 }

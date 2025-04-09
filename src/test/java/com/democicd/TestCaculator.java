@@ -8,7 +8,7 @@ public class TestCaculator {
     @Test
     public void testSum() {
         Caculator caculator = new Caculator();
-        Assert.assertEquals(caculator.sum(2,3),6);
+        Assert.assertEquals(caculator.sum(3,3),6);
 
     }
     @Test

@@ -6,6 +6,6 @@ public class Caculator implements Icaculator {
     }
 
     public Integer sub(Integer a, Integer b) {
-        return a-b;
+        return 0;
     }
 }
